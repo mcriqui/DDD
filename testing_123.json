@@ -1,0 +1,404 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -99.2764299,
+                    29.6571703
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Tarpley",
+                "episode title": "Classics",
+                "marker-color": #000000,
+                // "marker-symbol": "marker",
+                "name": "Mac and Ernies",
+                "number of reviews": "36",
+                "rating": "4",
+                "season": "1",
+                "state": "Texas"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.336111,
+                    37.688889
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Wichita",
+                "episode title": "Classics",
+                "marker-color": "rgb(255,255,0)",
+                "marker-symbol": "marker",
+                "name": "Brints Diner",
+                "number of reviews": "26",
+                "rating": "3.5",
+                "season": "1",
+                "state": "Kansas"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -121.8144142,
+                    48.7766868
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Baker",
+                "episode title": "Classics",
+                "marker-color": "rgb(212,255,0)",
+                "marker-symbol": "marker",
+                "name": "Mad Greeks Diner",
+                "number of reviews": "905",
+                "rating": "3",
+                "season": "1",
+                "state": "California"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -115.1398296,
+                    36.1699412
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Las Vegas",
+                "episode title": "Thats Italian",
+                "marker-color": "rgb(255,158,0)",
+                "marker-symbol": "marker",
+                "name": "Four Kegs Sports Pub",
+                "number of reviews": "291",
+                "rating": "4",
+                "season": "1",
+                "state": "Nevada"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -82.8192807,
+                    30.2304453
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Wellborn",
+                "episode title": "Thats Italian",
+                "marker-color": "rgb(255,255,0)",
+                "marker-symbol": "marker",
+                "name": "Hullabaloo Diner",
+                "number of reviews": "96",
+                "rating": "3.5",
+                "season": "1",
+                "state": "Texas"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.9207392,
+                    35.9606384
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Knoxville",
+                "episode title": "Thats Italian",
+                "marker-color": "rgb(255,255,0)",
+                "marker-symbol": "marker",
+                "name": "Pizza Palace",
+                "number of reviews": "76",
+                "rating": "3.5",
+                "season": "1",
+                "state": "Tennessee"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.8431267,
+                    35.2270869
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Charlotte",
+                "episode title": "Blue Plate Special",
+                "marker-color": "rgb(0, 0, 0)",
+                "marker-symbol": "cross",
+                "name": "The Penguin",
+                "number of reviews": "Error",
+                "rating": "Closed",
+                "season": "1",
+                "state": "North Carolina"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -118.4911912,
+                    34.0194543
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Santa Monica",
+                "episode title": "Blue Plate Special",
+                "marker-color": "rgb(255,255,0)",
+                "marker-symbol": "marker",
+                "name": "Patricks Roadhouse",
+                "number of reviews": "310",
+                "rating": "3.5",
+                "season": "1",
+                "state": "California"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.73866190000001,
+                    41.6689223
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Alsip",
+                "episode title": "Blue Plate Special",
+                "marker-color": "rgb(0, 0, 0)",
+                "marker-symbol": "cross",
+                "name": "Frosted Mug",
+                "number of reviews": "Error",
+                "rating": "Closed",
+                "season": "1",
+                "state": "Illinois"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -105.2705456,
+                    40.0149856
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Boulder City",
+                "episode title": "Breakfast",
+                "marker-color": "rgb(255,158,0)",
+                "marker-symbol": "marker",
+                "name": "The Coffee Cup",
+                "number of reviews": "273",
+                "rating": "4",
+                "season": "1",
+                "state": "Nevada"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.82118539999999,
+                    42.5847425
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Kenosha",
+                "episode title": "Breakfast",
+                "marker-color": "rgb(255,158,0)",
+                "marker-symbol": "marker",
+                "name": "Franks Diner",
+                "number of reviews": "192",
+                "rating": "4",
+                "season": "1",
+                "state": "Wisconsin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -59.66286640000001,
+                    -33.6757835
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "San Pedro",
+                "episode title": "Breakfast",
+                "marker-color": "rgb(255,255,0)",
+                "marker-symbol": "marker",
+                "name": "Gaffey Street Diner",
+                "number of reviews": "372",
+                "rating": "3.5",
+                "season": "1",
+                "state": "California"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.2696509,
+                    42.240872
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Taylor",
+                "episode title": "BBQ",
+                "marker-color": "rgb(255,158,0)",
+                "marker-symbol": "marker",
+                "name": "Louie Mueller BBQ",
+                "number of reviews": "283",
+                "rating": "4",
+                "season": "1",
+                "state": "Texas"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.3155151,
+                    45.4408474
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Venice",
+                "episode title": "BBQ",
+                "marker-color": "rgb(255,158,0)",
+                "marker-symbol": "marker",
+                "name": "Baby Blues BBQ",
+                "number of reviews": "1760",
+                "rating": "4",
+                "season": "1",
+                "state": "California"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.8431267,
+                    35.2270869
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Charlotte",
+                "episode title": "BBQ",
+                "marker-color": "rgb(255,255,0)",
+                "marker-symbol": "marker",
+                "name": "Barbecue King Drive-In",
+                "number of reviews": "81",
+                "rating": "3.5",
+                "season": "1",
+                "state": "North Carolina"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -73.9015246,
+                    41.7667602
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Hyde Park",
+                "episode title": "Local Legends",
+                "marker-color": "rgb(255,255,0)",
+                "marker-symbol": "marker",
+                "name": "Eveready Diner",
+                "number of reviews": "142",
+                "rating": "3.5",
+                "season": "1",
+                "state": "New York"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -97.5164276,
+                    35.4675602
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Oklahoma City",
+                "episode title": "Local Legends",
+                "marker-color": "rgb(255,158,0)",
+                "marker-symbol": "marker",
+                "name": "Leos BBQ",
+                "number of reviews": "80",
+                "rating": "4",
+                "season": "1",
+                "state": "Oklahoma"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -69.77532219999999,
+                    44.2300698
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Gardiner",
+                "episode title": "Local Legends",
+                "marker-color": "rgb(255,158,0)",
+                "marker-symbol": "marker",
+                "name": "A1 Diner",
+                "number of reviews": "50",
+                "rating": "4",
+                "season": "1",
+                "state": "Maine"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.90806549999999,
+                    40.4258686
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "West Lafayette",
+                "episode title": "Burgers",
+                "marker-color": "rgb(255,255,0)",
+                "marker-symbol": "marker",
+                "name": "Triple XXX Restaurant",
+                "number of reviews": "207",
+                "rating": "3.5",
+                "season": "1",
+                "state": "Indiana"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

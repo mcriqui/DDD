@@ -1,0 +1,26 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    113.466667,
+                    52.05
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "City",
+                "episode title": "Show Title",
+                "marker-symbol": "rocket",
+                "name": "Resturant",
+                "number of reviews": "Error",
+                "rating": "Rating",
+                "season": "Season",
+                "state": "State"
+            },
+            "type": "Feature"
+        },
+
+    ],
+    "type": "FeatureCollection"
+}
