@@ -2897,6 +2897,27 @@
                 "state": "Nevada"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "-76.7402108",
+                    "34.6990505"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Atlantic Beach",
+                "episode title": "Surf \u2018n Turf",
+                "marker-color": "FFF000",
+                "marker-symbol": "marker",
+                "name": "Singletons Seafood Shack",
+                "number of reviews": "185",
+                "rating": "3.5",
+                "season": "9",
+                "state": "Florida"
+            },
+            "type": "Feature"
         }
     ], 
     "type": "FeatureCollection"
