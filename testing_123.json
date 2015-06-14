@@ -209,6 +209,573 @@
                 "state": "Nevada"
             }, 
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "-87.8211854", 
+                    "42.5847425"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Kenosha", 
+                "episode title": "Breakfast", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Franks Diner", 
+                "number of reviews": "192", 
+                "rating": "4", 
+                "season": "1", 
+                "state": "Wisconsin"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-118.292246", 
+                    "33.736062"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "San Pedro", 
+                "episode title": "Breakfast", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Gaffey Street Diner", 
+                "number of reviews": "372", 
+                "rating": "3.5", 
+                "season": "1", 
+                "state": "California"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-83.2696509", 
+                    "42.240872"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Taylor", 
+                "episode title": "BBQ", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Louie Mueller BBQ", 
+                "number of reviews": "283", 
+                "rating": "4", 
+                "season": "1", 
+                "state": "Texas"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "12.3155151", 
+                    "45.4408474"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Venice", 
+                "episode title": "BBQ", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Baby Blues BBQ", 
+                "number of reviews": "1760", 
+                "rating": "4", 
+                "season": "1", 
+                "state": "California"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-80.8431267", 
+                    "35.2270869"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Charlotte", 
+                "episode title": "BBQ", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Barbecue King Drive-In", 
+                "number of reviews": "81", 
+                "rating": "3.5", 
+                "season": "1", 
+                "state": "North Carolina"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-73.9015246", 
+                    "41.7667602"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Hyde Park", 
+                "episode title": "Local Legends", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Eveready Diner", 
+                "number of reviews": "142", 
+                "rating": "3.5", 
+                "season": "1", 
+                "state": "New York"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-97.5164276", 
+                    "35.4675602"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Oklahoma City", 
+                "episode title": "Local Legends", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Leos BBQ", 
+                "number of reviews": "80", 
+                "rating": "4", 
+                "season": "1", 
+                "state": "Oklahoma"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-69.7753222", 
+                    "44.2300698"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Gardiner", 
+                "episode title": "Local Legends", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "A1 Diner", 
+                "number of reviews": "50", 
+                "rating": "4", 
+                "season": "1", 
+                "state": "Maine"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-86.9080655", 
+                    "40.4258686"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "West Lafayette", 
+                "episode title": "Burgers", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Triple XXX Restaurant", 
+                "number of reviews": "207", 
+                "rating": "3.5", 
+                "season": "1", 
+                "state": "Indiana"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-87.7878408", 
+                    "42.0697509"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Glenview", 
+                "episode title": "Burgers", 
+                "marker-color": "#FF9E00", 
+                "marker-symbol": "marker", 
+                "name": "Hackneys", 
+                "number of reviews": "137", 
+                "rating": "3", 
+                "season": "1", 
+                "state": "Illinois"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-121.4943996", 
+                    "38.5815719"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Sacramento", 
+                "episode title": "Burgers", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Squeeze Inn", 
+                "number of reviews": "1339", 
+                "rating": "3.5", 
+                "season": "1", 
+                "state": "California"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-71.454789", 
+                    "42.99564"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Manchester", 
+                "episode title": "House Specials", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Red Arrow Diner", 
+                "number of reviews": "263", 
+                "rating": "4", 
+                "season": "1", 
+                "state": "New Hampshire"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-122.7140548", 
+                    "38.440429"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Santa Rosa", 
+                "episode title": "House Specials", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Hanks Creekside Restaurant", 
+                "number of reviews": "238", 
+                "rating": "4", 
+                "season": "1", 
+                "state": "California"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-122.3320708", 
+                    "47.6062095"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Seattle", 
+                "episode title": "House Specials", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Voulas Offshore Cafe", 
+                "number of reviews": "420", 
+                "rating": "4", 
+                "season": "1", 
+                "state": "Washington"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-85.8344383", 
+                    "41.5822716"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Goshen", 
+                "episode title": "Retro", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Southside Soda Shop and Diner", 
+                "number of reviews": "50", 
+                "rating": "4", 
+                "season": "1", 
+                "state": "Indiana"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-122.4703868", 
+                    "38.5052429"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Saint Helena", 
+                "episode title": "Retro", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Taylors Automatic Refresher", 
+                "number of reviews": "1229", 
+                "rating": "4", 
+                "season": "1", 
+                "state": "California"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-122.6764816", 
+                    "45.5230622"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Portland", 
+                "episode title": "Retro", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Byways Cafe", 
+                "number of reviews": "402", 
+                "rating": "4", 
+                "season": "1", 
+                "state": "Oregon"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-122.5212448", 
+                    "47.6262081"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Bainbridge Island", 
+                "episode title": "Worth the Trip", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Big Star Diner", 
+                "number of reviews": "108", 
+                "rating": "3.5", 
+                "season": "1", 
+                "state": "Washington"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-81.6498195", 
+                    "35.0717945"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Gaffney", 
+                "episode title": "Worth the Trip", 
+                "marker-color": "#BFF4600", 
+                "marker-symbol": "marker", 
+                "name": "Harolds Cafe", 
+                "number of reviews": "19", 
+                "rating": "2.5", 
+                "season": "1", 
+                "state": "South Carolina"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-73.8654295", 
+                    "40.8370495"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Bronx", 
+                "episode title": "Worth the Trip", 
+                "marker-color": "#FF9E00", 
+                "marker-symbol": "marker", 
+                "name": "Mo Gridders BBQ", 
+                "number of reviews": "34", 
+                "rating": "3", 
+                "season": "1", 
+                "state": "New York"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-71.0994968", 
+                    "42.3875968"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Somerville", 
+                "episode title": "Diners A-Plenty", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Kellys Diner", 
+                "number of reviews": "173", 
+                "rating": "4", 
+                "season": "1", 
+                "state": "Massachusetts"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-74.2445902", 
+                    "40.6220478"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Linden", 
+                "episode title": "Diners A-Plenty", 
+                "marker-color": "#FF9E00", 
+                "marker-symbol": "marker", 
+                "name": "Bay Way Diner", 
+                "number of reviews": "9", 
+                "rating": "3", 
+                "season": "1", 
+                "state": "New Jersey"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-81.9320482", 
+                    "34.9495672"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Spartanburg", 
+                "episode title": "Diners A-Plenty", 
+                "marker-color": "#FF9E00", 
+                "marker-symbol": "marker", 
+                "name": "Beacon Drive-In", 
+                "number of reviews": "122", 
+                "rating": "3", 
+                "season": "1", 
+                "state": "South Carolina"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-89.0939952", 
+                    "42.2711311"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Rockford", 
+                "episode title": "American Cookin", 
+                "marker-color": "#FF9E00", 
+                "marker-symbol": "marker", 
+                "name": "Rosies Diner", 
+                "number of reviews": "23", 
+                "rating": "3", 
+                "season": "1", 
+                "state": "Michigan"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-93.0899578", 
+                    "44.9537029"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Saint Paul", 
+                "episode title": "American Cookin", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Dari-ette Drive-In", 
+                "number of reviews": "51", 
+                "rating": "3.5", 
+                "season": "1", 
+                "state": "Minnesota"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-69.087641", 
+                    "48.7391752"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Forestville", 
+                "episode title": "American Cookin", 
+                "marker-color": "#00FF00", 
+                "marker-symbol": "marker", 
+                "name": "The Russian River Pub", 
+                "number of reviews": "118", 
+                "rating": "4.5", 
+                "season": "1", 
+                "state": "California"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-93.2650108", 
+                    "44.977753"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Minneapolis", 
+                "episode title": "American Cookin", 
+                "marker-color": "#00FF00", 
+                "marker-symbol": "marker", 
+                "name": "Als Breakfast", 
+                "number of reviews": "309", 
+                "rating": "4.5", 
+                "season": "1", 
+                "state": "Minnesota"
+            }, 
+            "type": "Feature"
         }
     ], 
     "type": "FeatureCollection"
