@@ -1868,6 +1868,1014 @@
                 "state": "Illinois"
             }, 
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "-105.937799", 
+                    "35.6869752"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Santa Fe", 
+                "episode title": "Regional Favorites", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Tecolote Cafe", 
+                "number of reviews": "186", 
+                "rating": "4", 
+                "season": "3", 
+                "state": "New Mexico"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-1.505924", 
+                    "53.683298"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Wakefield", 
+                "episode title": "Regional Favorites", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Virginia Diner", 
+                "number of reviews": "62", 
+                "rating": "3.5", 
+                "season": "3", 
+                "state": "Virginia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-118.255075", 
+                    "34.1425078"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Glendale", 
+                "episode title": "Neighborhood Joints", 
+                "marker-color": "#FF9E00", 
+                "marker-symbol": "marker", 
+                "name": "Thee Pitts Again", 
+                "number of reviews": "197", 
+                "rating": "3", 
+                "season": "3", 
+                "state": "Arizona"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-90.1994042", 
+                    "38.6270025"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Saint Louis", 
+                "episode title": "Neighborhood Joints", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Iron Barley", 
+                "number of reviews": "275", 
+                "rating": "4", 
+                "season": "3", 
+                "state": "Missouri"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-75.1068388", 
+                    "40.1742757"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Hatboro", 
+                "episode title": "Neighborhood Joints", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Daddypops", 
+                "number of reviews": "89", 
+                "rating": "4", 
+                "season": "3", 
+                "state": "Pennsylvania"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-77.4360481", 
+                    "37.5407246"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Richmond", 
+                "episode title": "Neighborhood Joints", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "The Village Cafe", 
+                "number of reviews": "144", 
+                "rating": "3.5", 
+                "season": "3", 
+                "state": "Virginia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-112.0740373", 
+                    "33.4483771"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Phoenix", 
+                "episode title": "A World of Flavors", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Chino Bandido", 
+                "number of reviews": "830", 
+                "rating": "4", 
+                "season": "3", 
+                "state": "Arizona"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-84.5499327", 
+                    "33.952602"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Marietta", 
+                "episode title": "A World of Flavors", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Marietta Diner", 
+                "number of reviews": "579", 
+                "rating": "4", 
+                "season": "3", 
+                "state": "Georgia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-94.5785667", 
+                    "39.0997265"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Kansas City", 
+                "episode title": "A World of Flavors", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "YJs Snack Bar", 
+                "number of reviews": "100", 
+                "rating": "4", 
+                "season": "3", 
+                "state": "Missouri"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-80.1917902", 
+                    "25.7616798"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Miami", 
+                "episode title": "Something Different", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Scullys Tavern", 
+                "number of reviews": "117", 
+                "rating": "4", 
+                "season": "3", 
+                "state": "Florida"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-77.4360481", 
+                    "37.5407246"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Richmond", 
+                "episode title": "Something Different", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Dots Back Inn", 
+                "number of reviews": "184", 
+                "rating": "4", 
+                "season": "3", 
+                "state": "Virginia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-82.2984823", 
+                    "38.5064731"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Lesage", 
+                "episode title": "Something Different", 
+                "marker-color": "#00FF00", 
+                "marker-symbol": "marker", 
+                "name": "Hillbilly Hot Dogs", 
+                "number of reviews": "47", 
+                "rating": "4.5", 
+                "season": "3", 
+                "state": "West Virginia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-80.1300455", 
+                    "25.790654"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Miami Beach", 
+                "episode title": "American Classics", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "11th Street Diner", 
+                "number of reviews": "285", 
+                "rating": "3.5", 
+                "season": "3", 
+                "state": "Florida"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-95.6890185", 
+                    "39.0558235"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Topeka", 
+                "episode title": "American Classics", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Bobo Drive-In", 
+                "number of reviews": "51", 
+                "rating": "3.5", 
+                "season": "3", 
+                "state": "Kansas"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-90.0489801", 
+                    "35.1495343"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Memphis", 
+                "episode title": "American Classics", 
+                "marker-color": "#00FF00", 
+                "marker-symbol": "marker", 
+                "name": "Little Tea Shop", 
+                "number of reviews": "73", 
+                "rating": "4.5", 
+                "season": "3", 
+                "state": "Tennessee"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-87.9033261", 
+                    "30.5229719"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Fairhope", 
+                "episode title": "Real Deal Fast Food", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Panini Petes", 
+                "number of reviews": "77", 
+                "rating": "4", 
+                "season": "3", 
+                "state": "Alabama"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-111.789027", 
+                    "33.3528264"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Gilbert", 
+                "episode title": "Real Deal Fast Food", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Joes Farm Grill", 
+                "number of reviews": "968", 
+                "rating": "4", 
+                "season": "3", 
+                "state": "Arizona"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-97.7430608", 
+                    "30.267153"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Austin", 
+                "episode title": "Real Deal Fast Food", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Marias Taco Express", 
+                "number of reviews": "17", 
+                "rating": "3.5", 
+                "season": "3", 
+                "state": "Texas"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-90.0489801", 
+                    "35.1495343"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Memphis", 
+                "episode title": "The Memphis BBQ Tour", 
+                "marker-color": "#00FF00", 
+                "marker-symbol": "marker", 
+                "name": "Cozy Corner", 
+                "number of reviews": "270", 
+                "rating": "4.5", 
+                "season": "3", 
+                "state": "Tennessee"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-90.0489801", 
+                    "35.1495343"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Memphis", 
+                "episode title": "The Memphis BBQ Tour", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Leonards BBQ", 
+                "number of reviews": "76", 
+                "rating": "3.5", 
+                "season": "3", 
+                "state": "Tennessee"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-90.0489801", 
+                    "35.1495343"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Memphis", 
+                "episode title": "The Memphis BBQ Tour", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Marlowes Ribs", 
+                "number of reviews": "127", 
+                "rating": "4", 
+                "season": "3", 
+                "state": "Tennessee"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-90.0489801", 
+                    "35.1495343"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Memphis", 
+                "episode title": "The Memphis BBQ Tour", 
+                "marker-color": "#00FF00", 
+                "marker-symbol": "marker", 
+                "name": "Toms Bar-B-Q", 
+                "number of reviews": "165", 
+                "rating": "4.5", 
+                "season": "3", 
+                "state": "Tennessee"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-80.1439343", 
+                    "26.052311"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Dania Beach", 
+                "episode title": "Comfort Food", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Grampas Bakery and Restaurant", 
+                "number of reviews": "240", 
+                "rating": "3.5", 
+                "season": "3", 
+                "state": "Florida"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-76.6121893", 
+                    "39.2903848"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Baltimore", 
+                "episode title": "Comfort Food", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Blue Moon Cafe", 
+                "number of reviews": "923", 
+                "rating": "4", 
+                "season": "3", 
+                "state": "Maryland"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-82.445154", 
+                    "38.4192496"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Huntington", 
+                "episode title": "Comfort Food", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Central City Cafe", 
+                "number of reviews": "5", 
+                "rating": "3.5", 
+                "season": "3", 
+                "state": "West Virginia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-98.4936282", 
+                    "29.4241219"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "San Antonio", 
+                "episode title": "Comfort Food", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Tip Top Cafe", 
+                "number of reviews": "163", 
+                "rating": "3.5", 
+                "season": "3", 
+                "state": "Texas"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-84.2171424", 
+                    "33.8545479"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Tucker", 
+                "episode title": "Where The Locals Go", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Matthews Cafeteria", 
+                "number of reviews": "130", 
+                "rating": "3.5", 
+                "season": "3", 
+                "state": "Georgia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-90.15313", 
+                    "29.966037"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Jefferson", 
+                "episode title": "Where The Locals Go", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "The Rivershack Tavern", 
+                "number of reviews": "85", 
+                "rating": "4", 
+                "season": "3", 
+                "state": "Louisiana"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-106.6055534", 
+                    "35.0853336"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Albuquerque", 
+                "episode title": "Where The Locals Go", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Monte Carlo Steak House", 
+                "number of reviews": "95", 
+                "rating": "3.5", 
+                "season": "3", 
+                "state": "New Mexico"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-90.0715323", 
+                    "29.9510658"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "New Orleans", 
+                "episode title": "All Kinds of BBQ", 
+                "marker-color": "#00FF00", 
+                "marker-symbol": "marker", 
+                "name": "The Joint", 
+                "number of reviews": "569", 
+                "rating": "4.5", 
+                "season": "3", 
+                "state": "Louisiana"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-88.8278057", 
+                    "30.4113097"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Ocean Springs", 
+                "episode title": "All Kinds of BBQ", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "The Shed", 
+                "number of reviews": "305", 
+                "rating": "4", 
+                "season": "3", 
+                "state": "Mississippi"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-98.2372329", 
+                    "29.3930129"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Adkins", 
+                "episode title": "All Kinds of BBQ", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Texas Pride BBQ", 
+                "number of reviews": "166", 
+                "rating": "3.5", 
+                "season": "3", 
+                "state": "Texas"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-80.2907618", 
+                    "25.7050697"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "South Miami", 
+                "episode title": "In the Family", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Bennys Seafood Restaurant", 
+                "number of reviews": "61", 
+                "rating": "3.5", 
+                "season": "3", 
+                "state": "Florida"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-76.6121893", 
+                    "39.2903848"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Baltimore", 
+                "episode title": "In the Family", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Chaps Pit Beef", 
+                "number of reviews": "554", 
+                "rating": "4", 
+                "season": "3", 
+                "state": "Maryland"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-112.026331", 
+                    "41.161611"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Roy", 
+                "episode title": "In the Family", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Burger Bar", 
+                "number of reviews": "95", 
+                "rating": "3.5", 
+                "season": "3", 
+                "state": "Utah"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-76.2858726", 
+                    "36.8507689"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Norfolk", 
+                "episode title": "Brain Freeze", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Doumars", 
+                "number of reviews": "Error", 
+                "rating": "4", 
+                "season": "4", 
+                "state": "Virginia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-111.8412502", 
+                    "33.3061605"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Chandler", 
+                "episode title": "Brain Freeze", 
+                "marker-color": "#BFF4600", 
+                "marker-symbol": "marker", 
+                "name": "Aunt Lenas Creamery", 
+                "number of reviews": "2", 
+                "rating": "2.5", 
+                "season": "4", 
+                "state": "Arizona"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-90.0715323", 
+                    "29.9510658"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "New Orleans", 
+                "episode title": "Brain Freeze", 
+                "marker-color": "#00FF00", 
+                "marker-symbol": "marker", 
+                "name": "The Creole Creamery", 
+                "number of reviews": "40", 
+                "rating": "4.5", 
+                "season": "4", 
+                "state": "Louisiana"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-93.2650108", 
+                    "44.977753"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Minneapolis", 
+                "episode title": "Diners You Sent Me To", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Town Talk Diner", 
+                "number of reviews": "97", 
+                "rating": "3.5", 
+                "season": "4", 
+                "state": "Minnesota"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-111.8910474", 
+                    "40.7607793"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Salt Lake City", 
+                "episode title": "Diners You Sent Me To", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Blue Plate Diner", 
+                "number of reviews": "316", 
+                "rating": "3.5", 
+                "season": "4", 
+                "state": "Utah"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-76.6121893", 
+                    "39.2903848"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Baltimore", 
+                "episode title": "Diners You Sent Me To", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Broadway Diner", 
+                "number of reviews": "178", 
+                "rating": "4", 
+                "season": "4", 
+                "state": "Maryland"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-84.3879824", 
+                    "33.7489954"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Atlanta", 
+                "episode title": "Bar Food", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "The Highlander", 
+                "number of reviews": "248", 
+                "rating": "3.5", 
+                "season": "4", 
+                "state": "Georgia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-87.9033261", 
+                    "30.5229719"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Fairhope", 
+                "episode title": "Bar Food", 
+                "marker-color": "#FF9E00", 
+                "marker-symbol": "marker", 
+                "name": "Gumbo Shack", 
+                "number of reviews": "55", 
+                "rating": "3", 
+                "season": "4", 
+                "state": "Alabama"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-79.9958864", 
+                    "40.4406248"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Pittsburgh", 
+                "episode title": "Bar Food", 
+                "marker-color": "#BFF4600", 
+                "marker-symbol": "marker", 
+                "name": "Starlite Lounge", 
+                "number of reviews": "12", 
+                "rating": "2.5", 
+                "season": "4", 
+                "state": "Pennsylvania"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-93.2650108", 
+                    "44.977753"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Minneapolis", 
+                "episode title": "Burgers and Dogs", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "The Wienery", 
+                "number of reviews": "154", 
+                "rating": "4", 
+                "season": "4", 
+                "state": "Minnesota"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-97.7430608", 
+                    "30.267153"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Austin", 
+                "episode title": "Burgers and Dogs", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Casino El Camino", 
+                "number of reviews": "771", 
+                "rating": "4", 
+                "season": "4", 
+                "state": "Texas"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-76.6121893", 
+                    "39.2903848"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Baltimore", 
+                "episode title": "Burgers and Dogs", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "GandA Restaurant", 
+                "number of reviews": "53", 
+                "rating": "4", 
+                "season": "4", 
+                "state": "Maryland"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-90.0489801", 
+                    "35.1495343"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Memphis", 
+                "episode title": "Where the Locals Eat", 
+                "marker-color": "#00FF00", 
+                "marker-symbol": "marker", 
+                "name": "Uncle Lous", 
+                "number of reviews": "186", 
+                "rating": "4.5", 
+                "season": "4", 
+                "state": "Tennessee"
+            }, 
+            "type": "Feature"
         }
     ], 
     "type": "FeatureCollection"
