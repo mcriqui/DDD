@@ -41,7 +41,7 @@
                 "state": "Kansas"
             }, 
             "type": "Feature"
-        }, 
+        } 
     ], 
     "type": "FeatureCollection"
 }
