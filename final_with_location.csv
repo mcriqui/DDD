@@ -12,7 +12,7 @@ Season,Show Title,Resturant,City,State,Business ID,Rating,Error,"Chita, Zabaykal
 1,Breakfast,Franks Diner,Kenosha,Wisconsin,Franks-Diner-Kenosha,4,192,"Kenosha, WI, USA",-87.8211854,42.5847425
 1,Breakfast,Gaffey Street Diner,San Pedro,California,Gaffey-Street-Diner-San-Pedro,3.5,372,"San Pedro,CA,USA,-118.292246,33.736062
 1,BBQ,Louie Mueller BBQ,Taylor,Texas,Louie-Mueller-BBQ-Taylor,4,283,"Taylor, MI, USA",-83.2696509,42.240872
-1,BBQ,Baby Blues BBQ,Venice,California,Baby-Blues-BBQ-Venice,4,1760,"Venice, Italy",,12.3155151,45.4408474
+1,BBQ,Baby Blues BBQ,Venice,California,Baby-Blues-BBQ-Venice,4,1760,"Venice, Italy",12.3155151,45.4408474,
 1,BBQ,Barbecue King Drive-In,Charlotte,North Carolina,Bar-B-Q-King-Charlotte,3.5,81,"Charlotte, NC, USA",-80.8431267,35.2270869
 1,Local Legends,Eveready Diner,Hyde Park,New York,Eveready-Diner-Hyde-Park,3.5,142,"Hyde Park, NY, USA",-73.9015246,41.7667602
 1,Local Legends,Leos BBQ,Oklahoma City,Oklahoma,Leos-BBQ-Oklahoma-City,4,80,"Oklahoma City, OK, USA",-97.5164276,35.4675602
@@ -122,7 +122,7 @@ Season,Show Title,Resturant,City,State,Business ID,Rating,Error,"Chita, Zabaykal
 3,All Kinds of BBQ,Texas Pride BBQ,Adkins,Texas,Texas-Pride-BBQ-Adkins,3.5,166,"Adkins, TX 78101, USA",-98.2372329,29.3930129
 3,In the Family,Bennys Seafood Restaurant,South Miami,Florida,Bennys-Seafood-Restaurant-Miami-3,3.5,61,"South Miami, FL, USA",-80.2907618,25.7050697
 3,In the Family,Chaps Pit Beef,Baltimore,Maryland,Chaps-Pit-Beef-Baltimore,4,554,"Baltimore, MD, USA",-76.6121893,39.2903848
-3,In the Family,Burger Bar,Roy,Utah,Burger-Bar-Roy,3.5,95,"Roy, 26110 Condorcet, France",5.19536,44.396775
+3,In the Family,Burger Bar,Roy,Utah,Burger-Bar-Roy,3.5,95,"Roy,UT,Usa,-112.026331,41.161611
 4,Brain Freeze,Doumars,Norfolk,Virginia,Doumars-Cones-and-Barbeque-Norfolk,4,Error,"Norfolk, VA, USA",-76.2858726,36.8507689
 4,Brain Freeze,Aunt Lenas Creamery,Chandler,Arizona,Aunt-Lenas-Creamery-Chandler,2.5,2,"Chandler, AZ, USA",-111.8412502,33.3061605
 4,Brain Freeze,The Creole Creamery,New Orleans,Louisiana,The-Creole-Creamery-New-Orleans,4.5,40,"New Orleans, LA, USA",-90.0715323,29.9510658
@@ -826,8 +826,8 @@ Season,Show Title,Resturant,City,State,Business ID,Rating,Error,"Chita, Zabaykal
 22,Fish Fries and Feet,Kelsey and Kims Southern Cafe,Atlantic City,New Jersey,Kelsey-and-Kims-Southern-Cafe-Atlantic-City,4,131,"Atlantic City, NJ, USA",-74.4229266,39.3642834
 22,Fish Fries and Feet,Tacopocalypse,Des Moines,Iowa,Tacopocalypse-Des-Moines,3.5,98,"Des Moines, IA, USA",-93.6091064,41.6005448
 22,Cruisin the Italian Countryside,Port Ellen Clan,Lucca,Italy,Port-Ellen-Clan-Lucca,5,1,"Lucca, Province of Lucca, Italy",10.4950609,43.8376211
-22,Fillin Up in Florence,La Cucina Del Garga,Firenze,Italy,La-Cucina-Del-Garga-Firenze,4.5,31,"Florence, Italy",,11.2558136,43.7695604
-22,Fillin Up in Florence,Fratelli Briganti,Firenze,Italy,Fratelli-Briganti-Firenze,4,20,"Florence, Italy",,11.2558136,43.7695604
+22,Fillin Up in Florence,La Cucina Del Garga,Firenze,Italy,La-Cucina-Del-Garga-Firenze,4.5,31,"Florence, Italy",11.2558136,43.7695604,
+22,Fillin Up in Florence,Fratelli Briganti,Firenze,Italy,Fratelli-Briganti-Firenze,4,20,"Florence, Italy",11.2558136,43.7695604,
 22,Arizona All Stars,Toms Thumb Fresh Market,Scottsdale,Arizona,Toms-Thumb-Fresh-Market-Scottsdale,4,361,"Scottsdale, AZ, USA",-111.9260519,33.4941704
 22,Arizona All Stars,Paradise Valley Burger Company,Phoenix,Arizona,Paradise-Valley-Burger-Company-Phoenix,4.5,419,"Phoenix, AZ, USA",-112.0740373,33.4483771
 22,Roadtrippin,The Anchorage Tavern,Somers Point,New Jersey,Anchorage-Tavern-Restaurant-Somers-Point,3.5,71,"Somers Point, NJ, USA",-74.6053047,39.3160641
