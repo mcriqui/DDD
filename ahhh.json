@@ -1,0 +1,47 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    "-99.2764299", 
+                    "29.6571703"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Tarpley", 
+                "episode title": "Classics", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Mac and Ernies", 
+                "number of reviews": "36", 
+                "rating": "4", 
+                "season": "1", 
+                "state": "Texas"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-97.336111", 
+                    "37.688889"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Wichita", 
+                "episode title": "Classics", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Brints Diner", 
+                "number of reviews": "26", 
+                "rating": "3.5", 
+                "season": "1", 
+                "state": "Kansas"
+            }, 
+            "type": "Feature"
+        }, 
+    ], 
+    "type": "FeatureCollection"
+}
