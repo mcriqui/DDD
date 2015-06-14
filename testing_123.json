@@ -776,6 +776,1098 @@
                 "state": "Minnesota"
             }, 
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "-121.8863286", 
+                    "37.3382082"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "San Jose", 
+                "episode title": "Totally Fried", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Falafels Drive-In", 
+                "number of reviews": "3404", 
+                "rating": "4", 
+                "season": "2", 
+                "state": "California"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-116.8792553", 
+                    "33.0413604"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Ramona", 
+                "episode title": "Totally Fried", 
+                "marker-color": "#FF9E00", 
+                "marker-symbol": "marker", 
+                "name": "Ramona Cafe", 
+                "number of reviews": "146", 
+                "rating": "3", 
+                "season": "2", 
+                "state": "California"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-75.1652215", 
+                    "39.9525839"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Philadelphia", 
+                "episode title": "Totally Fried", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Silk City Diner", 
+                "number of reviews": "557", 
+                "rating": "4", 
+                "season": "2", 
+                "state": "Pennsylvania"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-117.2927641", 
+                    "34.5362184"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Victorville", 
+                "episode title": "Route 66", 
+                "marker-color": "#00FF00", 
+                "marker-symbol": "marker", 
+                "name": "Emma Jeans Holland Burger Cafe", 
+                "number of reviews": "170", 
+                "rating": "4.5", 
+                "season": "2", 
+                "state": "California"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-2.217758", 
+                    "51.745734"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Stroud", 
+                "episode title": "Route 66", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "The Rock Cafe", 
+                "number of reviews": "52", 
+                "rating": "3.5", 
+                "season": "2", 
+                "state": "Oklahoma"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-94.7355042", 
+                    "37.0236759"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Baxter Springs", 
+                "episode title": "Route 66", 
+                "marker-color": "#00FF00", 
+                "marker-symbol": "marker", 
+                "name": "Cafe on the Route", 
+                "number of reviews": "17", 
+                "rating": "4.5", 
+                "season": "2", 
+                "state": "Kansas"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-71.213423", 
+                    "41.625921"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Tiverton", 
+                "episode title": "Seaside Eats", 
+                "marker-color": "#FF9E00", 
+                "marker-symbol": "marker", 
+                "name": "Evelyns Drive-In", 
+                "number of reviews": "87", 
+                "rating": "3", 
+                "season": "2", 
+                "state": "Rhode Island"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-117.2470353", 
+                    "32.7494988"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Ocean Beach", 
+                "episode title": "Seaside Eats", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Hodads", 
+                "number of reviews": "3962", 
+                "rating": "4", 
+                "season": "2", 
+                "state": "California"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-82.846561", 
+                    "27.8960019"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Indian Rocks Beach", 
+                "episode title": "Seaside Eats", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Keegans Seafood Grille", 
+                "number of reviews": "250", 
+                "rating": "4", 
+                "season": "2", 
+                "state": "Florida"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-95.1541339", 
+                    "36.6386937"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Vinita", 
+                "episode title": "Local Flavor", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Clantons Cafe", 
+                "number of reviews": "41", 
+                "rating": "4", 
+                "season": "2", 
+                "state": "Oklahoma"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-122.3320708", 
+                    "47.6062095"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Seattle", 
+                "episode title": "Local Flavor", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Mikes Chili Parlor", 
+                "number of reviews": "222", 
+                "rating": "3.5", 
+                "season": "2", 
+                "state": "Washington"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-122.3830152", 
+                    "37.2551636"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Pescadero", 
+                "episode title": "Local Flavor", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Duartes Tavern", 
+                "number of reviews": "828", 
+                "rating": "3.5", 
+                "season": "2", 
+                "state": "California"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-122.2020794", 
+                    "47.9789848"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Everett", 
+                "episode title": "Viewers Choice", 
+                "marker-color": "#000000", 
+                "marker-symbol": "cross", 
+                "name": "Bobbys Hawaiian Style Restaurant", 
+                "number of reviews": "Error", 
+                "rating": "Closed", 
+                "season": "2", 
+                "state": "Washington"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-118.1503488", 
+                    "34.1161196"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "South Pasadena", 
+                "episode title": "Viewers Choice", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Ted Peters Famous Smoked Fish", 
+                "number of reviews": "152", 
+                "rating": "4", 
+                "season": "2", 
+                "state": "Florida"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-93.2650108", 
+                    "44.977753"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Minneapolis", 
+                "episode title": "Viewers Choice", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Psycho Suzies Motor Lounge", 
+                "number of reviews": "Error", 
+                "rating": "3.5", 
+                "season": "2", 
+                "state": "Minnesota"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-118.3089624", 
+                    "33.8883487"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Gardena", 
+                "episode title": "Real Deal BBQ", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Jay Bees Bar-B-Que", 
+                "number of reviews": "318", 
+                "rating": "3.5", 
+                "season": "2", 
+                "state": "California"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-87.6297982", 
+                    "41.8781136"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Chicago", 
+                "episode title": "Real Deal BBQ", 
+                "marker-color": "#00FF00", 
+                "marker-symbol": "marker", 
+                "name": "Smoque", 
+                "number of reviews": "39", 
+                "rating": "4.5", 
+                "season": "2", 
+                "state": "Illinois"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-94.879129", 
+                    "38.572235"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Paola", 
+                "episode title": "Real Deal BBQ", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "BBQ Shack", 
+                "number of reviews": "12", 
+                "rating": "3.5", 
+                "season": "2", 
+                "state": "Kansas"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-71.0588801", 
+                    "42.3600825"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Boston", 
+                "episode title": "Talkin Turkey", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Mikes City Diner", 
+                "number of reviews": "369", 
+                "rating": "4", 
+                "season": "2", 
+                "state": "Massachusetts"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-122.7140548", 
+                    "38.440429"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Santa Rosa", 
+                "episode title": "Talkin Turkey", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Willie Birds Restaurant", 
+                "number of reviews": "145", 
+                "rating": "3.5", 
+                "season": "2", 
+                "state": "California"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-82.5306527", 
+                    "27.3364347"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Sarasota", 
+                "episode title": "Talkin Turkey", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Alpine Steakhouse", 
+                "number of reviews": "46", 
+                "rating": "3.5", 
+                "season": "2", 
+                "state": "Florida"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-70.782932", 
+                    "42.631958"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Essex", 
+                "episode title": "One of a Kind", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "JT Farnhams Seafood and Grill", 
+                "number of reviews": "161", 
+                "rating": "3.5", 
+                "season": "2", 
+                "state": "Massachusetts"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-84.738874", 
+                    "42.6292029"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Potterville", 
+                "episode title": "One of a Kind", 
+                "marker-color": "#FF9E00", 
+                "marker-symbol": "marker", 
+                "name": "Joes Gizzard City", 
+                "number of reviews": "49", 
+                "rating": "3", 
+                "season": "2", 
+                "state": "Michigan"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-122.4194155", 
+                    "37.7749295"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "San Francisco", 
+                "episode title": "One of a Kind", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Grubstake Diner", 
+                "number of reviews": "893", 
+                "rating": "3.5", 
+                "season": "2", 
+                "state": "California"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-121.8863286", 
+                    "37.3382082"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "San Jose", 
+                "episode title": "One of a Kind", 
+                "marker-color": "#FF9E00", 
+                "marker-symbol": "marker", 
+                "name": "Los Tapatios", 
+                "number of reviews": "7", 
+                "rating": "3", 
+                "season": "2", 
+                "state": "California"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-117.1610838", 
+                    "32.715738"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "San Diego", 
+                "episode title": "Family Owned", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "El Indio", 
+                "number of reviews": "998", 
+                "rating": "3.5", 
+                "season": "2", 
+                "state": "California"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-95.144318", 
+                    "43.1450748"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Spencer", 
+                "episode title": "Family Owned", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Charlies Diner", 
+                "number of reviews": "23", 
+                "rating": "3.5", 
+                "season": "2", 
+                "state": "Massachusetts"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-87.8833991", 
+                    "42.0333623"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Des Plaines", 
+                "episode title": "Family Owned", 
+                "marker-color": "#00FF00", 
+                "marker-symbol": "marker", 
+                "name": "Paradise Pup", 
+                "number of reviews": "503", 
+                "rating": "4.5", 
+                "season": "2", 
+                "state": "Illinois"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-117.1610838", 
+                    "32.715738"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "San Diego", 
+                "episode title": "Open 24/7", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Studio Diner", 
+                "number of reviews": "1222", 
+                "rating": "3.5", 
+                "season": "2", 
+                "state": "California"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-87.6297982", 
+                    "41.8781136"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Chicago", 
+                "episode title": "Open 24/7", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "White Palace Grill", 
+                "number of reviews": "362", 
+                "rating": "3.5", 
+                "season": "2", 
+                "state": "Illinois"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-75.1652215", 
+                    "39.9525839"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Philadelphia", 
+                "episode title": "Open 24/7", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "The Dining Car and Market", 
+                "number of reviews": "102", 
+                "rating": "3.5", 
+                "season": "2", 
+                "state": "Pennsylvania"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-118.1937395", 
+                    "33.7700504"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Long Beach", 
+                "episode title": "Off the Hook Specials", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Schooner or Later", 
+                "number of reviews": "1025", 
+                "rating": "3.5", 
+                "season": "2", 
+                "state": "California"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-94.5785667", 
+                    "39.0997265"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Kansas City", 
+                "episode title": "Off the Hook Specials", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Grinders", 
+                "number of reviews": "306", 
+                "rating": "4", 
+                "season": "2", 
+                "state": "Missouri"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-83.1346478", 
+                    "42.4605917"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Ferndale", 
+                "episode title": "Off the Hook Specials", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "The Fly Trap", 
+                "number of reviews": "508", 
+                "rating": "4", 
+                "season": "2", 
+                "state": "Michigan"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-87.6297982", 
+                    "41.8781136"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Chicago", 
+                "episode title": "Off the Hook Specials", 
+                "marker-color": "#000000", 
+                "marker-symbol": "cross", 
+                "name": "Gailwood Cook Shack", 
+                "number of reviews": "Error", 
+                "rating": "Closed", 
+                "season": "2", 
+                "state": "Illinois"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-122.4194155", 
+                    "37.7749295"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "San Francisco", 
+                "episode title": "Burgers Rings and Fries", 
+                "marker-color": "#000000", 
+                "marker-symbol": "cross", 
+                "name": "Joes Cable Car", 
+                "number of reviews": "Error", 
+                "rating": "Closed", 
+                "season": "2", 
+                "state": "California"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-93.0899578", 
+                    "44.9537029"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Saint Paul", 
+                "episode title": "Burgers Rings and Fries", 
+                "marker-color": "#00FF00", 
+                "marker-symbol": "marker", 
+                "name": "The Nook", 
+                "number of reviews": "517", 
+                "rating": "4.5", 
+                "season": "2", 
+                "state": "Minnesota"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-83.7430378", 
+                    "42.2808256"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Ann Arbor", 
+                "episode title": "Burgers Rings and Fries", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Krazy Jims Blimpy Burger", 
+                "number of reviews": "234", 
+                "rating": "4", 
+                "season": "2", 
+                "state": "Michigan"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-74.1062466", 
+                    "39.7576202"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Barnegat Light", 
+                "episode title": "The New Jersey Diner Tour", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Mustache Bills", 
+                "number of reviews": "47", 
+                "rating": "4", 
+                "season": "2", 
+                "state": "New Jersey"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-74.1637553", 
+                    "40.8584328"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Clifton", 
+                "episode title": "The New Jersey Diner Tour", 
+                "marker-color": "#FF9E00", 
+                "marker-symbol": "marker", 
+                "name": "Tick Tock Diner", 
+                "number of reviews": "278", 
+                "rating": "3", 
+                "season": "2", 
+                "state": "New Jersey"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-74.0434736", 
+                    "40.8859325"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Hackensack", 
+                "episode title": "The New Jersey Diner Tour", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "White Manna Hamburgers", 
+                "number of reviews": "547", 
+                "rating": "4", 
+                "season": "2", 
+                "state": "New Jersey"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-3.518068", 
+                    "55.900708"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Livingston", 
+                "episode title": "The New Jersey Diner Tour", 
+                "marker-color": "#BFF4600", 
+                "marker-symbol": "marker", 
+                "name": "The Ritz Diner", 
+                "number of reviews": "106", 
+                "rating": "2.5", 
+                "season": "2", 
+                "state": "New Jersey"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-74.5232089", 
+                    "40.2695538"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Hightstown", 
+                "episode title": "The New Jersey Diner Tour", 
+                "marker-color": "#FF9E00", 
+                "marker-symbol": "marker", 
+                "name": "Hightstown Diner", 
+                "number of reviews": "44", 
+                "rating": "3", 
+                "season": "2", 
+                "state": "New Jersey"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-74.4120953", 
+                    "40.5187154"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Edison", 
+                "episode title": "The New Jersey Diner Tour", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Skylark Diner", 
+                "number of reviews": "314", 
+                "rating": "3.5", 
+                "season": "2", 
+                "state": "New Jersey"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-74.6327236", 
+                    "40.9503131"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Lake Hopatcong", 
+                "episode title": "The New Jersey Diner Tour", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Jefferson Diner", 
+                "number of reviews": "129", 
+                "rating": "3.5", 
+                "season": "2", 
+                "state": "New Jersey"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-74.0776417", 
+                    "40.7281575"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Jersey City", 
+                "episode title": "Big Breakfast", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Brownstone Diner", 
+                "number of reviews": "767", 
+                "rating": "3.5", 
+                "season": "3", 
+                "state": "New Jersey"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-94.5785667", 
+                    "39.0997265"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Kansas City", 
+                "episode title": "Big Breakfast", 
+                "marker-color": "#000000", 
+                "marker-symbol": "cross", 
+                "name": "39th Street Mamas", 
+                "number of reviews": "Error", 
+                "rating": "Closed", 
+                "season": "3", 
+                "state": "Missouri"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-112.0740373", 
+                    "33.4483771"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Phoenix", 
+                "episode title": "Big Breakfast", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Matts Big Breakfast", 
+                "number of reviews": "728", 
+                "rating": "4", 
+                "season": "3", 
+                "state": "Arizona"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-112.0740373", 
+                    "33.4483771"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Phoenix", 
+                "episode title": "Like Mamma Made", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Robertos Mexican Food", 
+                "number of reviews": "148", 
+                "rating": "4", 
+                "season": "3", 
+                "state": "Arizona"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-83.1740654", 
+                    "38.3000809"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Olive Hill", 
+                "episode title": "Like Mamma Made", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Smokey Valley Truck Stop", 
+                "number of reviews": "22", 
+                "rating": "3.5", 
+                "season": "3", 
+                "state": "Kentucky"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-90.1994042", 
+                    "38.6270025"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Saint Louis", 
+                "episode title": "Like Mamma Made", 
+                "marker-color": "FFF000", 
+                "marker-symbol": "marker", 
+                "name": "Sweetie Pies", 
+                "number of reviews": "19", 
+                "rating": "3.5", 
+                "season": "3", 
+                "state": "Missouri"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    "-72.589811", 
+                    "42.1014831"
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "city": "Springfield", 
+                "episode title": "Regional Favorites", 
+                "marker-color": "D4FF00", 
+                "marker-symbol": "marker", 
+                "name": "Charlie Parkers", 
+                "number of reviews": "124", 
+                "rating": "4", 
+                "season": "3", 
+                "state": "Illinois"
+            }, 
+            "type": "Feature"
         }
     ], 
     "type": "FeatureCollection"
