@@ -2876,6 +2876,27 @@
                 "state": "Tennessee"
             }, 
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    "-119.8138027",
+                    "39.5296329"
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "city": "Reno",
+                "episode title": "Surf n Turf",
+                "marker-color": "FFF000",
+                "marker-symbol": "marker",
+                "name": "Gold N Silver Inn",
+                "number of reviews": "243",
+                "rating": "3.5",
+                "season": "9",
+                "state": "Nevada"
+            },
+            "type": "Feature"
         }
     ], 
     "type": "FeatureCollection"
