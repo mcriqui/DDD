@@ -12,7 +12,7 @@ Season,Show Title,Resturant,City,State,Business ID,Rating,Error,"Chita, Zabaykal
 1,Breakfast,Franks Diner,Kenosha,Wisconsin,Franks-Diner-Kenosha,4,192,"Kenosha, WI, USA",-87.8211854,42.5847425
 1,Breakfast,Gaffey Street Diner,San Pedro,California,Gaffey-Street-Diner-San-Pedro,3.5,372,"San Pedro,CA,USA,-118.292246,33.736062
 1,BBQ,Louie Mueller BBQ,Taylor,Texas,Louie-Mueller-BBQ-Taylor,4,283,"Taylor, MI, USA",-83.2696509,42.240872
-1,BBQ,Baby Blues BBQ,Venice,California,Baby-Blues-BBQ-Venice,4,1760,"Venice, Italy",12.3155151,45.4408474,
+1,BBQ,Baby Blues BBQ,Venice,California,Baby-Blues-BBQ-Venice,4,1760,"Venice, Italy",,12.3155151,45.4408474
 1,BBQ,Barbecue King Drive-In,Charlotte,North Carolina,Bar-B-Q-King-Charlotte,3.5,81,"Charlotte, NC, USA",-80.8431267,35.2270869
 1,Local Legends,Eveready Diner,Hyde Park,New York,Eveready-Diner-Hyde-Park,3.5,142,"Hyde Park, NY, USA",-73.9015246,41.7667602
 1,Local Legends,Leos BBQ,Oklahoma City,Oklahoma,Leos-BBQ-Oklahoma-City,4,80,"Oklahoma City, OK, USA",-97.5164276,35.4675602

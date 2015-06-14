@@ -22,6 +22,7 @@ for index, episode in enumerate(episodes):
     number_of_reviews = episodes[index][7]
     longitude = episodes[index][11]
     latitude = episodes[index][12]
+    print longitude, latitude
 
     if rating == '5':
         item = {
@@ -219,5 +220,5 @@ geo = {
     "features": resources
 }
 
-with open("final_with_location.json","w") as jsonfile:
-    jsonfile.write(json.dumps(geo, indent=4,sort_keys=True))
+with open("newest_final_with_location.json", "w") as jsonfile:
+    jsonfile.write(json.dumps(geo, indent=4, sort_keys=True))
